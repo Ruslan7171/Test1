@@ -24,7 +24,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/a321b95b-e0c8-4961-b1b8-c29c72159e4a" title="Postman">
+      <img src="https://github.com/Ruslan7171/Test1/assets/167314295/eb291fa7-d5ea-4d66-86eb-3eefba37c936">
     </td>
   </tr>
 
@@ -43,7 +43,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/e6960680-4f23-4d73-8db8-26719a72056e" title="Postman automation">
+      <img src="https://github.com/Ruslan7171/Test1/assets/167314295/7b21fa8e-8aef-4460-9cbe-e92f681719ab">
     </td>
   </tr>
   
@@ -59,7 +59,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/5f69f3ab-d1f5-4ee0-920b-e4c2cc237c18" title="Jmeter">
+      <img src="https://github.com/Ruslan7171/Test1/assets/167314295/285382e6-4384-4e64-ad64-ed9749b08a24">
     </td>
   </tr>
   
@@ -80,7 +80,7 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/c45ee289-dd1b-4500-9cdc-363f815d1d13" title="SQL">
+      <img src="https://github.com/Ruslan7171/Test1/assets/167314295/51b02116-39a5-4cb0-a44c-52d6a14b42be">
     </td>
   </tr>
   
@@ -106,11 +106,26 @@
 
   </td>
     <td width="70%">
-      <img src="https://github.com/Zhirkin22/Sert/assets/163585803/1aab3f2d-b9ff-4f58-bcb8-4429ede3c508" title="Postman automation">
+      <img src="https://github.com/Ruslan7171/Test1/assets/167314295/90a16518-6281-4e62-ad08-698e0d2db013">
     </td>
   </tr>
 
- 
+ <tr>
+    <th colspan="2" style="text-align:center;"><h3>Test design techniques</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+<br>Web Automation
+<br>API Automation
+<br>Mobile automation
+<br>Test Management
+<br>Infrastructure and notifications
+
+  </td>
+    <td width="70%">
+      <img src="https://github.com/Ruslan7171/Test1/assets/167314295/353c7231-01f6-41d8-a603-fbc173202d1f">
+    </td>
+  </tr>
 
 
 
